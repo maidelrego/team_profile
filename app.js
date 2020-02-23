@@ -91,7 +91,7 @@ function startHtml() {
     </head>
     <body>
        <div class = "jumbotron">
-       <h1 class = "display-2">Team Members</h1>
+       <h1 class = "display-2 text-center">Team Members</h1>
        </div>
         <div class="container">
             <div class="row">`;
