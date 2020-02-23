@@ -1,4 +1,4 @@
 # team_profile
 
-[](gif1.gif)
-[](gif2.gif)
+![](gif1.gif)
+![](gif2.gif)
